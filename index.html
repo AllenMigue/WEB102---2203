@@ -5,81 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>MANGINASAL PROFILE</title>
 
-<style>
-    body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background: #f2f2f2; 
-    }
 
-    .sidebar {
-        width: 250px;
-        height: 100vh;
-        background: #2e7d32; 
-        color: white;
-        padding: 25px;
-        position: fixed;
-        top: 0;
-        left: 0;
-    }
-
-    .sidebar h1 {
-        font-size: 28px;
-        margin-bottom: 30px;
-        color: white;
-    }
-
-    .sidebar button {
-        width: 100%;
-        background: black;
-        color: white;
-        border: none;
-        padding: 12px;
-        font-weight: bold;
-        cursor: pointer;
-        margin-bottom: 20px;
-        border-radius: 5px;
-    }
-
-    .sidebar ul {
-        list-style: none;
-        padding: 0;
-        margin-top: 10px;
-    }
-
-    .sidebar ul li {
-        margin: 10px 0;
-        cursor: pointer;
-    }
-
-    .profile-container {
-        margin-left: 300px;
-        padding: 40px;
-    }
-
-    .profile-card {
-        background: white;
-        border-radius: 12px;
-        padding: 30px;
-        box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
-        max-width: 850px;
-    }
-
-    .profile-text h2 {
-        color: #2e7d32; /* Green */
-        font-size: 28px;
-        margin-bottom: 15px;
-    }
-
-    .profile-text h3 {
-        color: black;
-        margin-top: 25px;
-    }
-
-    .profile-text p {
-        line-height: 1.6;
-    }
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -89,24 +16,29 @@
 
     <button>Dashboard</button>
 
-    <ul>
-        <li>1. ____________________</li>
-        <li>2. ____________________</li>
-        <li>3. ____________________</li>
-        <li>4. ____________________</li>
-        <li>5. ____________________</li>
-    </ul>
-
     <button>Profile Info</button>
 
     <ul>
-        <li>JOHN ALLEN MIGUE</li>
-        <li>RUSSELL LAMSON</li>
-        <li>JHON REY BERNALES</li>
-        <li>ROBERT CARINO</li>
-        <li>DHAN TAGASLING</li>
+        <li><div class="profile-link" onclick="showProfile('allen', this)">JOHN ALLEN MIGUE</div></li>
+        <li><div class="profile-link" onclick="showProfile('russell', this)">RUSSELL LAMSON</div></li>
+        <li><div class="profile-link" onclick="showProfile('jhonrey', this)">JHON REY BERNALES</div></li>
+        <li><div class="profile-link" onclick="showProfile('robert', this)">ROBERT CARIÑO</div></li>
+        <li><div class="profile-link" onclick="showProfile('dhan', this)">DHAN TAGASLING</div></li>
     </ul>
 </div>
+
+<div class="profile-container">
+    <div class="profile-card" id="profileDisplay">
+        <h2>Select a Profile</h2>
+        <p>Click a name on the left to view information.</p>
+    </div>
+</div>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
 
 <div class="profile-container">
     <div class="profile-card profile-text">
