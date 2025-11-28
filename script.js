@@ -16,7 +16,7 @@ const profiles = {
     },
 
     russell: { name:"RUSSELL LAMSON", bio:"COMING SOON", address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" },
-    jhonrey: { name:"JHON REY BERNALES", bio:"COMING SOON", address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" },
+    jhonrey: { name:"JHON REY BERNALES", bio:"tirador ng single mom"/, address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" },
     robert: { name:"ROBERT CARIÑO", bio:"COMING SOON", address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" },
     dhan: { name:"DHAN TAGASLING", bio:"COMING SOON", address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" }
 };
