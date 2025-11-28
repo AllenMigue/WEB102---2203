@@ -33,10 +33,10 @@ const profiles = {
     
     jhonrey: { 
         name:"JHON REY BERNALES", 
-              bio:"sleepyy", 
-              address:"Blk 2 lot 13 Garden View Heights Baluyot Park Brgy. Sauyo Quezon City", 
+              bio:"SLEEPYY", 
+              address:"BLK 2 LOT 13 GARDEN VIEW HEIGHTS BALUYOT PARK BRGY. SAUYO QUEZON CITY", 
               phone:"09917410416", 
-              email:"jhonreybernales14@gmail.com", 
+              email:"JHONREYBERNALES14@GMAIL.COM", 
               work:"NONE", 
               hobby:"BASKETBALL, WATCHING ANIME, GAMES", 
               age:"19", 
@@ -44,7 +44,7 @@ const profiles = {
               civil:"SINGLE", 
               height:"5'7", 
               weight:"48KG", 
-              quote:"Your life does not get better by chance, it gets better by change." 
+              quote:"YOUR LIFE DOES NOT GET BETTER BY CHANCE, IT GETS BETTER BY CHANGE." 
     },
     
     robert: { 
