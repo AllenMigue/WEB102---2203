@@ -10,26 +10,85 @@ const profiles = {
         age: "19",
         sex: "MALE",
         civil: "SINGLE",
-        height: "5'4\"",
+        height: "5'4",
         weight: "45KG",
         quote: "LIFE IS SHORT SO ALWAYS BE HAPPY."
     },
 
-    russell: { name:"RUSSELL LAMSON", bio:"COMING SOON", address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" },
-    jhonrey: { name:"JHON REY BERNALES", bio:"tirador ng single mom"/, address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" },
-    robert: { name:"ROBERT CARIÑO", bio:"COMING SOON", address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" },
-    dhan: { name:"DHAN TAGASLING", bio:"COMING SOON", address:"-", phone:"-", email:"-", work:"-", hobby:"-", age:"-", sex:"-", civil:"-", height:"-", weight:"-", quote:"-" }
+    russell: { 
+        name:"RUSSELL LAMSON", 
+              bio:"COMING SOON", 
+              address:"-", 
+              phone:"-", 
+              email:"-", 
+              work:"-", 
+              hobby:"-", 
+              age:"-", 
+              sex:"-", 
+              civil:"-", 
+              height:"-", 
+              weight:"-", 
+              quote:"-" 
+    },
+    
+    jhonrey: { 
+        name:"JHON REY BERNALES", 
+              bio:"tirador ng single mom", 
+              address:"-", 
+              phone:"-", 
+              email:"-", 
+              work:"-", 
+              hobby:"-", 
+              age:"-", 
+              sex:"-", 
+              civil:"-", 
+              height:"-", 
+              weight:"-", 
+              quote:"-" 
+    },
+    
+    robert: { 
+        name:"ROBERT CARIÑO", 
+             bio:"COMING SOON", 
+             address:"-", 
+             phone:"-", 
+             email:"-", 
+             work:"-", 
+             hobby:"-", 
+             age:"-", 
+             sex:"-", 
+             civil:"-", 
+             height:"-", 
+             weight:"-", 
+             quote:"-"
+    },
+    
+    dhan: { 
+        name:"DHAN TAGASLING", 
+        bio:"COMING SOON", 
+        address:"-", 
+        phone:"-", 
+        email:"-", 
+        work:"-", 
+        hobby:"-", 
+        age:"-", 
+        sex:"-", 
+        civil:"-", 
+        height:"-", 
+        weight:"-", 
+        quote:"-" 
+    }
 };
 
 function showProfile(person, element) {
     const p = profiles[person];
 
-    // remove active from all links
+    
     document.querySelectorAll(".profile-link").forEach(link => {
         link.classList.remove("active");
     });
 
-    // highlight the clicked one
+    
     element.classList.add("active");
 
     document.getElementById("profileDisplay").innerHTML = `
