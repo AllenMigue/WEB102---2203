@@ -17,17 +17,17 @@ const profiles = {
 
     russell: { 
         name:"RUSSELL LAMSON", 
-              bio:"Coming soon", 
-              address:"B9 L6 Ph3 Elysian Homes Phase 3 Bahay Pare, Meycauayan, Bulacan", 
+              bio:"COMING SOON", 
+              address:"B9 L6 PH3 ELYSIAN HOMES PHASE 3 BAHAY PARE, MEYCAUAYAN, BULACAN", 
               phone:"09939219637", 
-              email:"russellamson9@gmail.com", 
-              work:"Lalamove rider", 
-              hobby:"Riding motorcycle", 
+              email:"RUSSELLAMSON9@GMAIL.COM", 
+              work:"LALAMOVE RIDER", 
+              hobby:"RIDING MOTORCYCLE", 
               age:"19", 
-              sex:"Male", 
-              civil:"Single", 
+              sex:"MALE", 
+              civil:"SINGLE", 
               height:"5'7", 
-              weight:"60kg", 
+              weight:"60KG", 
               quote:"KUNG KAYA NILA, PAGAWA MO SAKANILA!" 
     },
     
