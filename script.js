@@ -50,17 +50,17 @@ const profiles = {
     robert: { 
         name:"ROBERT CARIÑO", 
              bio:"COMING SOON", 
-             address:"-", 
-             phone:"-", 
-             email:"-", 
-             work:"-", 
-             hobby:"-", 
-             age:"-", 
-             sex:"-", 
-             civil:"-", 
-             height:"-", 
-             weight:"-", 
-             quote:"-"
+             address:"BLK 2 148 LOWER JASMIN ST.PAYATAS A QUEZON CITY", 
+             phone:"09917409653", 
+             email:"robertcarino58@gmail.com", 
+             work:"STUDIO PHOTOGRAPHER", 
+             hobby:"ONLINE GAMES AND MOVIE", 
+             age:"20", 
+             sex:"MALE ", 
+             civil:"SINGLE", 
+             height:"5'7", 
+             weight:"50KG", 
+             quote:"LIFE IS VERY SHORT,BE HAPPY ALWAYS"
     },
     
     dhan: { 
