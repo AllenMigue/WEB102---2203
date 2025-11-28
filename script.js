@@ -33,18 +33,18 @@ const profiles = {
     
     jhonrey: { 
         name:"JHON REY BERNALES", 
-              bio:"tirador ng single mom", 
-              address:"-", 
-              phone:"-", 
-              email:"-", 
-              work:"-", 
-              hobby:"-", 
-              age:"-", 
-              sex:"-", 
-              civil:"-", 
-              height:"-", 
-              weight:"-", 
-              quote:"-" 
+              bio:"sleepyy", 
+              address:"Blk 2 lot 13 Garden View Heights Baluyot Park Brgy. Sauyo Quezon City", 
+              phone:"09917410416", 
+              email:"jhonreybernales14@gmail.com", 
+              work:"NONE", 
+              hobby:"BASKETBALL, WATCHING ANIME, GAMES", 
+              age:"19", 
+              sex:"MALE", 
+              civil:"SINGLE", 
+              height:"5'7", 
+              weight:"48KG", 
+              quote:"Your life does not get better by chance, it gets better by change." 
     },
     
     robert: { 
