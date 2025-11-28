@@ -17,18 +17,18 @@ const profiles = {
 
     russell: { 
         name:"RUSSELL LAMSON", 
-              bio:"COMING SOON", 
-              address:"-", 
-              phone:"-", 
-              email:"-", 
-              work:"-", 
-              hobby:"-", 
-              age:"-", 
-              sex:"-", 
-              civil:"-", 
-              height:"-", 
-              weight:"-", 
-              quote:"-" 
+              bio:"Coming soon", 
+              address:"B9 L6 Ph3 Elysian Homes Phase 3 Bahay Pare, Meycauayan, Bulacan", 
+              phone:"09939219637", 
+              email:"russellamson9@gmail.com", 
+              work:"Lalamove rider", 
+              hobby:"Riding motorcycle", 
+              age:"19", 
+              sex:"Male", 
+              civil:"Single", 
+              height:"5'7", 
+              weight:"60kg", 
+              quote:"KUNG KAYA NILA, PAGAWA MO SAKANILA!" 
     },
     
     jhonrey: { 
