@@ -64,19 +64,19 @@ const profiles = {
     },
     
     dhan: { 
-        name:"DHAN TAGASLING", 
-        bio:"COMING SOON", 
-        address:"-", 
-        phone:"-", 
-        email:"-", 
-        work:"-", 
-        hobby:"-", 
-        age:"-", 
-        sex:"-", 
-        civil:"-", 
-        height:"-", 
-        weight:"-", 
-        quote:"-" 
+        name:"DHAN LLOID TAGASLING", 
+        bio:"CUTE LANG AMBAG", 
+        address:"102 IDANG STREET BRGY SANTA MONICA NOVALICHES QUEZON CITY ", 
+        phone:"09816709811 ", 
+        email:"TAGASLING.DHANLLOID.BOLIMA@GMAIL.COM ", 
+        work:"STUDIO PHOTOGRAPHER ", 
+        hobby:"PLAYING MOBILE GAMES,MATULOG", 
+        age:"19", 
+        sex:"MALE", 
+        civil:"SINGLE", 
+        height:"5'4", 
+        weight:"48KG", 
+        quote:"HINDE MAHALAGA ANG MAGWAGI ANG MAHALAGA IKAW AY NAKIBAHAGI" 
     }
 };
 
