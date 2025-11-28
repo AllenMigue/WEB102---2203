@@ -64,7 +64,7 @@ const profiles = {
     },
     
     dhan: { 
-        name:"DHAN LLOID TAGASLING", 
+        name:"DHAN TAGASLING", 
         bio:"CUTE LANG AMBAG", 
         address:"102 IDANG STREET BRGY SANTA MONICA NOVALICHES QUEZON CITY ", 
         phone:"09816709811 ", 
