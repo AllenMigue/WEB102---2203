@@ -65,7 +65,7 @@ const profiles = {
     
     dhan: { 
         name:"DHAN TAGASLING", 
-        bio:"CUTE LANG AMBAG", 
+        bio:"BBS BERNALES ", 
         address:"102 IDANG STREET BRGY SANTA MONICA NOVALICHES QUEZON CITY ", 
         phone:"09816709811 ", 
         email:"TAGASLING.DHANLLOID.BOLIMA@GMAIL.COM ", 
